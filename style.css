@@ -22,7 +22,7 @@ body {
   -webkit-appearance:none;
   width:200px;
   height:2px;
-  background: ##4471ef;
+  background: #4471ef;
   border:none;
   outline:none;
 }
@@ -35,10 +35,10 @@ body {
   border-radius:50%;
 }
 .range-input input::-webkit-slider-thumb:hover {
-  background:#4471ef;
+  background:#fd001e;
 }
 .range-input .value {
-  color:#4471ef;
+  color:#fd001e;
   text-align:center;
   font-weight:600;
   line-height:40px;
